@@ -7,6 +7,6 @@ module.exports = defineConfig({
     env: {
       viewportWidthBreakpoint: 768,
     },
-    setupNodeEvents(on, config) {},
   },
+  projectId: "cky6wa",
 });
